@@ -1,9 +1,9 @@
 Basic linux commands - 
-ls , ls -la , ls -l , ls /etc   — this are used to see directory and file
-cd   this is used to change directory,  
-cd ..    this is used to go one directory back.
-cd ../..   — this is used to go two directory back. 
-cd ~    — this is used to go directly into home directory.
+ls , ls -la , ls -l , ls /etc   — these are used to see directory and file
+cd   —this is used to change directory,  
+cd ..    —this is used to go one directory back.
+cd ../..      — this is used to go two directory back. 
+cd ~         — this is used to go directly into home directory.
 cd /    — this is used to go directly into root directory.
 pwd     — this is used to check current location.
 mkdir   — this is used to creat directory.
